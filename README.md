@@ -26,7 +26,7 @@ node install && node index.js
 ```
 
   ## Usage
-  [Walkthrough video]([https://github.com/miladesmailpour](https://drive.google.com/file/d/1dRreTxzXUM6juxolYQrLbaa36LR88lA1/view))
+  [Walkthrough video](https://drive.google.com/file/d/1dRreTxzXUM6juxolYQrLbaa36LR88lA1/view)
   
   ![Screenshot](./assets/images/screenshot.png)
 
